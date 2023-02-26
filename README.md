@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/tirth-2001/Meditech-Healthcare">
+  <a href="https://github.com/AkankshaSinhaaa/MediTech">
     <img src="images/header_logo.png" alt="Logo" width="280" >
   </a>
 
@@ -75,7 +75,7 @@ This project is also hosted in firebase, you can run the web app on your browser
 
 1. Clone the repository on your system
    ```sh
-   git clone https://github.com/aniketyadavv/Meditech-Healthcare.git
+   git clone https://github.com/AkankshaSinhaaa/MediTech.git
    ```
 2. Or direct download ZIP file in your system
 
